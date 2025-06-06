@@ -1,0 +1,10 @@
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\ProgressBar\bin\Debug\ProgressBar.exe.config
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\ProgressBar\bin\Debug\ProgressBar.exe
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\ProgressBar\bin\Debug\ProgressBar.pdb
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\ProgressBar\obj\Debug\ProgressBar.csproj.AssemblyReference.cache
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\ProgressBar\obj\Debug\ProgressBar.FormProgressBar.resources
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\ProgressBar\obj\Debug\ProgressBar.Properties.Resources.resources
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\ProgressBar\obj\Debug\ProgressBar.csproj.GenerateResource.cache
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\ProgressBar\obj\Debug\ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\ProgressBar\obj\Debug\ProgressBar.exe
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\ProgressBar\obj\Debug\ProgressBar.pdb
