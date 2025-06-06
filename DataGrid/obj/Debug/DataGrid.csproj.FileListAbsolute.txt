@@ -1,0 +1,11 @@
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\DataGrid\bin\Debug\DataGrid.exe.config
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\DataGrid\bin\Debug\DataGrid.exe
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\DataGrid\bin\Debug\DataGrid.pdb
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\DataGrid\obj\Debug\DataGrid.csproj.AssemblyReference.cache
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\DataGrid\obj\Debug\DataGrid.DataGridForm.resources
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\DataGrid\obj\Debug\DataGrid.Properties.Resources.resources
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\DataGrid\obj\Debug\DataGrid.csproj.GenerateResource.cache
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\DataGrid\obj\Debug\DataGrid.csproj.CoreCompileInputs.cache
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\DataGrid\obj\Debug\DataGrid.exe
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\DataGrid\obj\Debug\DataGrid.pdb
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\DataGrid\obj\Debug\DataGrid.FEditBook.resources
