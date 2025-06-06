@@ -1,0 +1,15 @@
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\CALC\bin\Debug\CALC.exe.config
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\CALC\bin\Debug\CALC.exe
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\CALC\bin\Debug\CALC.pdb
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\CALC\obj\Debug\CALC.csproj.AssemblyReference.cache
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\CALC\obj\Debug\MainWindow.g.cs
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\CALC\obj\Debug\App.g.cs
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\CALC\obj\Debug\CALC_MarkupCompile.cache
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\CALC\obj\Debug\CALC_MarkupCompile.lref
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\CALC\obj\Debug\MainWindow.baml
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\CALC\obj\Debug\CALC.g.resources
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\CALC\obj\Debug\CALC.Properties.Resources.resources
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\CALC\obj\Debug\CALC.csproj.GenerateResource.cache
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\CALC\obj\Debug\CALC.csproj.CoreCompileInputs.cache
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\CALC\obj\Debug\CALC.exe
+C:\Users\ivan0\Source\Repos\WindowsFormsApp2\CALC\obj\Debug\CALC.pdb
